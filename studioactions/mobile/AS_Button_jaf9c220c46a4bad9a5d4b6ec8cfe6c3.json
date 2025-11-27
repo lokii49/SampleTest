@@ -1,0 +1,23 @@
+{
+    "AS_Button_jaf9c220c46a4bad9a5d4b6ec8cfe6c3": {
+        "id": "AS_Button_jaf9c220c46a4bad9a5d4b6ec8cfe6c3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Home",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fb6e88e7d7c94c68aa13478d43b174b5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_a7c690f9b29442c2bf20da6325b556e7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Hello, world!\");",
+            "parentId": null
+        }]
+    }
+}
